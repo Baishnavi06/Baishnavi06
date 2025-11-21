@@ -90,3 +90,18 @@ Here are the tools and languages I am learning and using:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Baishnavi06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
+
+---
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <h3>💭 Final Words</h3>
+  <p>
+    <i>"I believe that data is not just numbers; it is a story waiting to be told.<br>
+    My goal is not just to write code, but to engineer solutions that turn raw information into meaningful impact."</i>
+  </p>
+  <p><b>— Baishnavi Kumari</b></p>
+</div>
