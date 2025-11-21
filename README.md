@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME?color=green&label=Last%20Commit&style=flat-square" />
+  <a href="https://github.com/Baishnavi06?tab=repositories">
+    <img src="https://img.shields.io/github/last-commit/Baishnavi06/Baishnavi06?color=green&label=Last%20Commit&style=flat-square" />
   </a>
 </p>
 
@@ -98,6 +98,11 @@ Here are the tools and languages I am learning and using:
 <h2 align="center">📊 My GitHub Data City</h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baishnavi06&theme=radical" alt="GitHub Contribution"/>
+</div>
+
+<h3 align="center">📈 My Coding Frequency</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baishnavi06&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
