@@ -71,7 +71,7 @@ Here are the tools and languages I am learning and using:
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Baishnavi-Kumari">
+  <a href="https://www.linkedin.com/in/baishnavi-kumari-07b668220">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
