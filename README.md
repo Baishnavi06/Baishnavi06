@@ -83,3 +83,10 @@ Here are the tools and languages I am learning and using:
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+---
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baishnavi06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
