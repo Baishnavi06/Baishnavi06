@@ -24,26 +24,20 @@ My academic focus is deeply rooted in building a strong technical foundation. Wh
 
 I view technology not just as a tool, but as a language of possibility. My philosophy centers on **"Iterative Growth."** Just as software improves with every version update, I believe in constantly refactoring my skills—learning, unlearning, and relearning to keep pace with the evolving world of AI and Data Science.
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
+</p>
+
 ---
 
-## 🛠️ Current Tech Stack
+<h2 align="center">🚀 Skills in Motion</h2>
 
 Here are the tools and languages I am learning and using:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,vscode&perline=7" />
+  </a>
 </p>
 
 ---
@@ -59,12 +53,52 @@ Here are the tools and languages I am learning and using:
 
 ---
 
-## 🗺️ Roadmap: 2025 - 2026
+<h2 align="center">🗺️ My Journey</h2>
+<h3 align="center">(Click to Expand)</h3>
 
-* 🏁 **2025 (Early):** Mastery of C/C++ & solving 100+ LeetCode problems.
-* 🐍 **2025 (Late):** Deep dive into Python OOPs & SQL Databases.
-* 📊 **2026 (Early):** Learning NumPy, Pandas & Matplotlib.
-* 🤖 **2026 (Late):** Machine Learning algorithms & Full-Stack Data Projects.
+<details>
+<summary><b>🏁 2025 (Early): Strong Fundamentals</b></summary>
+<br>
+<ul>
+    <li>Mastery of <b>C/C++</b></li>
+    <li>Solving 100+ LeetCode/HackerRank problems on <b>DSA</b></li>
+    <li>Building command-line interface (CLI) mini-projects</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🐍 2025 (Late): The Python Transition</b></summary>
+<br>
+<ul>
+    <li>Deep dive into <b>Python</b> (OOPs concepts)</li>
+    <li>Introduction to Databases (<b>SQL</b>)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>📊 2026 (Early): Data Science Entry</b></summary>
+<br>
+<ul>
+    <li>Learning libraries: <b>NumPy, Pandas, Matplotlib</b></li>
+    <li>Data Cleaning and Visualization projects</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🤖 2026 (Late): Projects & AI</b></summary>
+<br>
+<ul>
+    <li>Introduction to <b>Machine Learning</b> algorithms</li>
+    <li>Building a full-stack Data Science project</li>
+</ul>
+</details>
+
+---
+
+<h2 align="center">📊 My GitHub Data City</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baishnavi06&theme=radical" alt="GitHub Contribution"/>
+</div>
 
 ---
 
