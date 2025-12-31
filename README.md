@@ -42,6 +42,17 @@ Here are the tools and languages I am learning and using:
 
 ---
 
+<h2 align="center">🚀 Project Lab</h2>
+
+<div align="center">
+  <a href="https://github.com/Baishnavi06/Quest-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baishnavi06&repo=Quest-Game&theme=radical&hide_border=true" alt="Project 1" />
+  </a>
+
+  <br>
+  
+</div>
+
 ## 📚 My Learning Approach
 
 | Phase | Focus Area | Objective |
